@@ -59,4 +59,14 @@
     "module_number": 6,
     "certification": "paid"
   }
+  {,
+    "id": 7,
+    "platform": "code with harry",
+    "free_course": "yes",
+    "course_name": "learning c",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  }
 ]
