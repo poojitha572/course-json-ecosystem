@@ -62,15 +62,12 @@
   {
     "id": 6,
     "platform": "coursera",
-    "Platform": "Infosis Spring Board",
-    "platform": "Springboard",
     "free_course": "Nope",
     "course_name": "ML Ops",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "Indian",
     "module_number": 6,
     "certification": "paid"
-
   },
  {
     "id": 7,
@@ -834,4 +831,3 @@
     "certification": "paid"
   },
 ]
-
