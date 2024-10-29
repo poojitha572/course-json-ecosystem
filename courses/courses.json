@@ -830,4 +830,13 @@
     "module_number": 8,
     "certification": "paid"
   },
+{
+    "id": 84,
+    "platform": "Abdul Bari",
+    "free_course": "yes",
+    "course_name": "Algorithms",
+    "link": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+    "difficulty": "Intermediate",
+    "module_number": 2,
+  },
 ]
