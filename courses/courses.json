@@ -435,12 +435,6 @@
     "certification": "paid"
   },
   {
-   "id": 7,
-    "platform": "python",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": ":/https/www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-{
     "id": 43,
     "platform": "youtube",
     "free_course": "yes",
